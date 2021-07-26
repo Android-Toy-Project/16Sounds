@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #5039ff;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="399.406" y1="0.594" x2="0.594" y2="399.406" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff2155" stop-opacity="0.996"/>
+      <stop offset="0.522" stop-color="#ffe1ec"/>
+      <stop offset="1" stop-color="#ff2155"/>
+    </linearGradient>
+    <filter id="filter" x="127.344" y="65.281" width="159.406" height="263.157" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="127.344" y="65.2812" width="159.406" height="263.157" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTU5LjQwNiIgaGVpZ2h0PSIyNjMuMTU3IiB2aWV3Qm94PSIwIDAgMTU5LjQwNiAyNjMuMTU3Ij4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmNscy0xIHsKICAgICAgICBmaWxsOiB1cmwoI2xpbmVhci1ncmFkaWVudCk7CiAgICAgIH0KICAgIDwvc3R5bGU+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudCIgeDE9Ijc5LjcwMyIgeTE9IjI2My4xNTciIHgyPSI3OS43MDMiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjZmY1MDI3Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMC41IiBzdG9wLWNvbG9yPSIjZjkxMzYyIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzM1MTI2YSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3QgY2xhc3M9ImNscy0xIiB3aWR0aD0iMTU5LjQwNiIgaGVpZ2h0PSIyNjMuMTU3Ii8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle id="B" class="cls-1" cx="200" cy="200" r="199.406"/>
+  <path id="B-2" data-name="B" class="cls-2" d="M127.352,65.29h85.293q40.83,0,55.046,10.888Q281.3,87.067,281.3,117.918V140q0,22.989-6.957,32.06t-28.733,14.215q23.592,5.147,32.363,17.845,8.769,11.8,8.771,38.109v24.8q0,38.109-15.728,50.207-14.22,11.187-56.559,11.191H127.352V65.29ZM169.7,173.569q6.047-.6,13-0.6h19.66q13.611,0,19.962-1.512,7.557-1.511,10.888-5.747t4.537-13.005q0.908-6.954,1.21-23.289,0-12.7-2.42-18.45a16.631,16.631,0,0,0-8.771-9.678q-6.351-2.723-19.357-3.63-8.775-.6-33.572-0.6H169.7v76.521Zm0,120.68,11.493-.3q24.195,0,32.665-.605,12.7-.908,18.753-3.932a16.468,16.468,0,0,0,9.073-9.981q2.418-6.047,2.42-19.054v-24.8q0-12.093-2.42-17.844-2.722-6.353-9.981-9.074-6.962-2.722-22.079-3.327-9.684-.6-38.109-0.6H169.7v89.527Z"/>
+</svg>

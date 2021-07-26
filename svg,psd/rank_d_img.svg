@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #5039ff;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="200" y1="399.406" x2="200" y2="0.594" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.996"/>
+      <stop offset="1" stop-color="#8296bd"/>
+    </linearGradient>
+    <filter id="filter" x="119.656" y="68.281" width="158.188" height="262.844" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="119.656" y="68.2812" width="158.188" height="262.844" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTU4LjE4OCIgaGVpZ2h0PSIyNjIuODQ0IiB2aWV3Qm94PSIwIDAgMTU4LjE4OCAyNjIuODQ0Ij4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmNscy0xIHsKICAgICAgICBmaWxsOiB1cmwoI2xpbmVhci1ncmFkaWVudCk7CiAgICAgIH0KICAgIDwvc3R5bGU+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudCIgeDE9Ijc5LjA5NCIgeTE9IjI2Mi44NDQiIHgyPSI3OS4wOTQiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjNDE0MTQxIiBzdG9wLW9wYWNpdHk9IjAuOTk2Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzAxMDEwMSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3QgY2xhc3M9ImNscy0xIiB3aWR0aD0iMTU4LjE4OCIgaGVpZ2h0PSIyNjIuODQ0Ii8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle id="D" class="cls-1" cx="200" cy="200" r="199.406"/>
+  <path id="D-2" data-name="D" class="cls-2" d="M119.655,68.291h75.916q47.785,0,65.633,12.1,16.629,11.8,16.635,42.948V267q0,35.388-17.543,49.6-18.147,14.517-65.33,14.518H119.655V68.291ZM161.7,296.644q30.24,0,41.134-.908,15.424-1.509,22.079-5.746t8.771-14.216q1.815-7.861,1.815-27.523V139.367q0-16.028-1.815-22.381a18.79,18.79,0,0,0-9.073-11.494q-6.961-3.324-22.08-4.234-10.888-.6-40.831-0.6V296.644Z"/>
+</svg>

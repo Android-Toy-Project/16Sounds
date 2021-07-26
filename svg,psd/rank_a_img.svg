@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #1c2cff;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="200" y1="399.406" x2="200" y2="0.594" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4ff18a"/>
+      <stop offset="1" stop-color="#38f8d4"/>
+    </linearGradient>
+    <filter id="filter" x="114.25" y="68.281" width="169.969" height="263.157" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="114.25" y="68.2812" width="169.969" height="263.157" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTY5Ljk2OSIgaGVpZ2h0PSIyNjMuMTU3IiB2aWV3Qm94PSIwIDAgMTY5Ljk2OSAyNjMuMTU3Ij4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmNscy0xIHsKICAgICAgICBmaWxsOiB1cmwoI2xpbmVhci1ncmFkaWVudCk7CiAgICAgIH0KICAgIDwvc3R5bGU+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudCIgeDE9Ijg0Ljk4NCIgeTE9IjI2My4xNTciIHgyPSI4NC45ODQiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjYTQxNWZmIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMC42MzUiIHN0b3AtY29sb3I9IiMwYjM5ZmYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMGIzOWZmIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCBjbGFzcz0iY2xzLTEiIHdpZHRoPSIxNjkuOTY5IiBoZWlnaHQ9IjI2My4xNTciLz4KPC9zdmc+Cg=="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle id="A" class="cls-1" cx="200" cy="200" r="199.406"/>
+  <path id="A-2" data-name="A" class="cls-2" d="M231,68.291l53.232,263.136H241.588l-13.611-67.447H170.511L157.2,331.426H114.254L167.486,68.291H231Zm-53.232,159.7h42.948L199.546,115.171Z"/>
+</svg>
