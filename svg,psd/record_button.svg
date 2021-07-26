@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00011e;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #e00;
+      }
+    </style>
+  </defs>
+  <path id="타원_1" data-name="타원 1" class="cls-1" d="M200.01,0.01c110.457,0,200,89.543,200,200s-89.543,200-200,200-200-89.543-200-200S89.553,0.01,200.01.01ZM208.5,152.5a53,53,0,1,1-53,53A53,53,0,0,1,208.5,152.5Z"/>
+  <circle id="타원_2" data-name="타원 2" class="cls-2" cx="199.64" cy="200.359" r="96.078"/>
+</svg>
