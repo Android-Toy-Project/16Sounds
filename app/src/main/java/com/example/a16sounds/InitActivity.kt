@@ -41,7 +41,6 @@ class InitActivity : AppCompatActivity() {
         */
     }
 
-
     fun goMainActivity(v : View){
         val intent = Intent(this, MainActivity::class.java)
         startActivity(intent)
