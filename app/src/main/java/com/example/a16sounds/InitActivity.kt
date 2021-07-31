@@ -14,16 +14,20 @@ class InitActivity : AppCompatActivity() {
         //setContentView(R.layout.activity_init)
 
         val binding = ActivityInitBinding.inflate(layoutInflater) // ViewBinding
-        val init_activity_title = AnimationUtils.loadAnimation(this, R.anim.init_activity_title_animation)
-        val init_activity_startbutton = AnimationUtils.loadAnimation(this, R.anim.init_activity_startbutton_animation)
-        val init_activity_shineEffect1 = AnimationUtils.loadAnimation(this, R.anim.init_activity_shinebar1_animation)
-        val init_activity_shineEffect2 = AnimationUtils.loadAnimation(this, R.anim.init_activity_shinebar2_animation)
-        //init_activity_startbutton.repeatCount()
-        binding.TitleImage.startAnimation(init_activity_title)
-        binding.startButton.startAnimation(init_activity_startbutton)
-        binding.shineEffect1.startAnimation(init_activity_shineEffect1)
-        binding.shineEffect2.startAnimation(init_activity_shineEffect2)
+        val anim_view = mutableListOf<Pair<Int, View>>()
+
+        //add animation id & view
+        anim_view.add(Pair(R.anim.init_activity_title_animation, binding.TitleImage))
+        anim_view.add(Pair(R.anim.init_activity_shinebar1_animation, binding.shineEffect1))
+        anim_view.add(Pair(R.anim.init_activity_shinebar2_animation, binding.shineEffect2))
+        anim_view.add(Pair(R.anim.init_activity_startbutton_animation, binding.startButton))
+
+        for(temp in anim_view) {
+            val anim = AnimationUtils.loadAnimation(this, temp.first)
+            temp.second.startAnimation(anim)
+        }
         setContentView(binding.root)
+
         /*
         //For animation
         AppCompatDelegate.setCompatVectorFromResourcesEnabled(true)
