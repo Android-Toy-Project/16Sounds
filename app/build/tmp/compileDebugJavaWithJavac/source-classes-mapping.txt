@@ -1,3 +1,5 @@
+com/example/a16sounds/databinding/ActivityProfileBinding.java
+ com.example.a16sounds.databinding.ActivityProfileBinding
 com/example/a16sounds/databinding/ActivityMainBinding.java
  com.example.a16sounds.databinding.ActivityMainBinding
 com/example/a16sounds/BuildConfig.java

@@ -440,6 +440,8 @@ attr fontWeight
 attr forceApplySystemWindowInsetTop
 attr foregroundInsidePadding
 attr framePosition
+attr fullscreenBackgroundColor
+attr fullscreenTextColor
 attr gapBetweenBars
 attr gestureInsetBottomIgnored
 attr goIcon
@@ -1021,6 +1023,7 @@ color background_floating_material_light
 color background_material_dark
 color background_material_light
 color black
+color black_overlay
 color bright_foreground_disabled_material_dark
 color bright_foreground_disabled_material_light
 color bright_foreground_inverse_material_dark
@@ -1082,6 +1085,10 @@ color foreground_material_dark
 color foreground_material_light
 color highlighted_text_material_dark
 color highlighted_text_material_light
+color light_blue_600
+color light_blue_900
+color light_blue_A200
+color light_blue_A400
 color material_blue_grey_800
 color material_blue_grey_900
 color material_blue_grey_950
@@ -2291,6 +2298,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_init
 layout activity_main
+layout activity_profile
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -2414,6 +2422,8 @@ string character_counter_overflowed_content_description
 string character_counter_pattern
 string chip_text
 string clear_text_end_icon_content_description
+string dummy_button
+string dummy_content
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
@@ -2951,6 +2961,7 @@ style Theme_MaterialComponents_Light_NoActionBar
 style Theme_MaterialComponents_Light_NoActionBar_Bridge
 style Theme_MaterialComponents_NoActionBar
 style Theme_MaterialComponents_NoActionBar_Bridge
+style ThemeOverlay_16Sounds_FullscreenContainer
 style ThemeOverlay_AppCompat
 style ThemeOverlay_AppCompat_ActionBar
 style ThemeOverlay_AppCompat_Dark
@@ -3206,6 +3217,7 @@ style Widget_MaterialComponents_Toolbar_PrimarySurface
 style Widget_MaterialComponents_Toolbar_Surface
 style Widget_MaterialComponents_Tooltip
 style Widget_Support_CoordinatorLayout
+style Widget_Theme_16Sounds_ButtonBar_Fullscreen
 styleable ActionBar background backgroundSplit backgroundStacked contentInsetEnd contentInsetEndWithActions contentInsetLeft contentInsetRight contentInsetStart contentInsetStartWithNavigation customNavigationLayout displayOptions divider elevation height hideOnContentScroll homeAsUpIndicator homeLayout icon indeterminateProgressStyle itemPadding logo navigationMode popupTheme progressBarPadding progressBarStyle subtitle subtitleTextStyle title titleTextStyle
 styleable ActionBarLayout android_layout_gravity
 styleable ActionMenuItemView android_minWidth
@@ -3259,6 +3271,7 @@ styleable FontFamilyFont android_font android_fontWeight android_fontStyle andro
 styleable ForegroundLinearLayout android_foreground android_foregroundGravity foregroundInsidePadding
 styleable Fragment android_name android_id android_tag
 styleable FragmentContainerView android_name android_tag
+styleable FullscreenAttrs fullscreenBackgroundColor fullscreenTextColor
 styleable GradientColor android_startColor android_endColor android_type android_centerX android_centerY android_gradientRadius android_tileMode android_centerColor android_startX android_startY android_endX android_endY
 styleable GradientColorItem android_color android_offset
 styleable GridLayout alignmentMode columnCount columnOrderPreserved orientation rowCount rowOrderPreserved useDefaultMargins
