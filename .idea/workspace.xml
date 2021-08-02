@@ -37,6 +37,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/app/16Sounds.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/16Sounds.app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/app/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
@@ -245,13 +246,40 @@
       <change beforePath="$PROJECT_DIR$/svg,psd/pad_button.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg,psd/pad_button.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/svg,psd/profile_img.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg,psd/profile_img.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/svg,psd/record_button.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg,psd/record_button.svg" afterDir="false" />
+=======
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/a16sounds/InitActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a16sounds/InitActivity.kt" afterDir="false" />
+>>>>>>> 866cd29d66e6057bb61e1393fcdd9fa2c1fafee2
+>>>>>>> park
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\phwms\.android\avd\Pixel_2_API_29.avd]" />
+=======
+<<<<<<< HEAD
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\phwms\.android\avd\Nexus_5_API_29.avd]" />
+=======
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@C:\Users\seven\.android\avd\Pixel_2_API_29.avd]" />
+>>>>>>> 866cd29d66e6057bb61e1393fcdd9fa2c1fafee2
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+>>>>>>> park
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -335,4 +363,84 @@
     </task>
     <servers />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="500" y="77" width="966" height="638" key="#PSD" timestamp="1627324698364">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="500" y="77" width="966" height="638" key="#PSD/0.0.1920.1040@0.0.1920.1040" timestamp="1627324698364" />
+    <state x="440" y="94" key="#Project_Structure" timestamp="1627316507262">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1627316507262" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1627745825005">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1627745825005" />
+    <state x="739" y="284" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1627319860992">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="284" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1627319860992" />
+<<<<<<< HEAD
+    <state x="92" y="92" width="1736" height="856" key="AVDManager" timestamp="1627576091284">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1627576091284" />
+=======
+    <state x="92" y="92" width="1736" height="856" key="AVDManager" timestamp="1627559524567">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1627559524567" />
+>>>>>>> 866cd29d66e6057bb61e1393fcdd9fa2c1fafee2
+    <state x="540" y="275" key="AndroidCreateResourceDirectoryDialog" timestamp="1627402952732">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="275" key="AndroidCreateResourceDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1627402952732" />
+    <state x="540" y="275" key="AndroidCreateResourceFileDialog" timestamp="1627427771097">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="275" key="AndroidCreateResourceFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1627427771097" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1627478317202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1627478317202" />
+    <state width="938" height="282" key="GridCell.Tab.0.bottom" timestamp="1627481560730">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1627481560730" />
+    <state width="938" height="282" key="GridCell.Tab.0.center" timestamp="1627481560730">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1627481560730" />
+    <state width="938" height="282" key="GridCell.Tab.0.left" timestamp="1627481560730">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1627481560730" />
+    <state width="938" height="282" key="GridCell.Tab.0.right" timestamp="1627481560730">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1627481560730" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1627482164059">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1627482164059" />
+    <state x="775" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627746393547">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="775" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1627746393547" />
+  </component>
+>>>>>>> park
 </project>
