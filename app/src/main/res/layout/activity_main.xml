@@ -5,15 +5,170 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/ic_main_background"
     tools:context=".MainActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
+    <androidx.gridlayout.widget.GridLayout
+        android:id="@+id/padBackground"
+        android:layout_width="415dp"
+        android:layout_height="415dp"
+        android:background="@drawable/ic_pad_background"
+        android:padding="10dp"
+        app:columnCount="4"
+        app:rowCount="4"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/padButton0"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:srcCompat="@drawable/ic_pad_button" />
+
+        <ImageView
+            android:id="@+id/padButton1"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:srcCompat="@drawable/ic_pad_button" />
+
+        <ImageView
+            android:id="@+id/padButton2"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:srcCompat="@drawable/ic_pad_button" />
+
+        <ImageView
+            android:id="@+id/padButton3"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:srcCompat="@drawable/ic_pad_button" />
+
+        <ImageView
+            android:id="@+id/padButton4"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:srcCompat="@drawable/ic_pad_button" />
+
+        <ImageView
+            android:id="@+id/padButton5"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:srcCompat="@drawable/ic_pad_button" />
+
+        <ImageView
+            android:id="@+id/padButton6"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:srcCompat="@drawable/ic_pad_button" />
+
+        <ImageView
+            android:id="@+id/padButton7"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:srcCompat="@drawable/ic_pad_button" />
+
+        <ImageView
+            android:id="@+id/padButton8"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:srcCompat="@drawable/ic_pad_button" />
+
+        <ImageView
+            android:id="@+id/padButton9"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:srcCompat="@drawable/ic_pad_button" />
+
+        <ImageView
+            android:id="@+id/padButton10"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:srcCompat="@drawable/ic_pad_button" />
+
+        <ImageView
+            android:id="@+id/padButton11"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:srcCompat="@drawable/ic_pad_button" />
+
+        <ImageView
+            android:id="@+id/padButton12"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:srcCompat="@drawable/ic_pad_button" />
+
+        <ImageView
+            android:id="@+id/padButton13"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:srcCompat="@drawable/ic_pad_button" />
+
+        <ImageView
+            android:id="@+id/padButton14"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:srcCompat="@drawable/ic_pad_button" />
+
+        <ImageView
+            android:id="@+id/padButton15"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            app:srcCompat="@drawable/ic_pad_button" />
+    </androidx.gridlayout.widget.GridLayout>
+
+    <ImageView
+        android:id="@+id/editSoundButton"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginBottom ="16dp"
+        android:adjustViewBounds="true"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/padBackground"
+        app:srcCompat="@drawable/ic_editsound_button"
+         />
+
+    <ImageView
+        android:id="@+id/profileButton"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="352dp"
+        android:layout_marginLeft="352dp"
+        android:layout_marginTop="16dp"
+        android:onClick="goProfileActivity"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_profile_img"
+        tools:ignore="UsingOnClickInXml" />
+
+    <ImageView
+        android:id="@+id/recordButton"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintStart_toStartOf="@id/profileButton"
+        app:layout_constraintTop_toBottomOf="@id/profileButton"
+        app:srcCompat="@drawable/ic_record_button" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
