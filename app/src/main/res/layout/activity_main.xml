@@ -9,11 +9,7 @@
     tools:context=".MainActivity">
 
     <androidx.gridlayout.widget.GridLayout
-<<<<<<< HEAD
-        android:id="@+id/padBackground"
-=======
         android:id = "@+id/pad_background"
->>>>>>> park
         android:layout_width="415dp"
         android:layout_height="415dp"
         android:background="@drawable/ic_pad_background"
@@ -139,42 +135,6 @@
     </androidx.gridlayout.widget.GridLayout>
 
     <ImageView
-<<<<<<< HEAD
-        android:id="@+id/editSoundButton"
-        android:layout_width="120dp"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="16dp"
-        android:layout_marginLeft="16dp"
-        android:layout_marginBottom ="16dp"
-        android:adjustViewBounds="true"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintBottom_toTopOf="@+id/padBackground"
-        app:srcCompat="@drawable/ic_editsound_button"
-         />
-
-    <ImageView
-        android:id="@+id/profileButton"
-        android:layout_width="40dp"
-        android:layout_height="40dp"
-        android:layout_marginStart="352dp"
-        android:layout_marginLeft="352dp"
-        android:layout_marginTop="16dp"
-        android:onClick="goProfileActivity"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/ic_profile_img"
-        tools:ignore="UsingOnClickInXml" />
-
-    <ImageView
-        android:id="@+id/recordButton"
-        android:layout_width="40dp"
-        android:layout_height="40dp"
-        android:layout_marginTop="16dp"
-        app:layout_constraintStart_toStartOf="@id/profileButton"
-        app:layout_constraintTop_toBottomOf="@id/profileButton"
-        app:srcCompat="@drawable/ic_record_button" />
-=======
         android:id="@+id/editsoundButton"
         android:layout_width="140dp"
         android:layout_height="wrap_content"
@@ -208,7 +168,6 @@
         app:layout_constraintStart_toStartOf="@id/recordButton"
         app:layout_constraintTop_toBottomOf="@+id/recordButton"
         app:srcCompat="@drawable/ic_profile_button" />
->>>>>>> park
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
