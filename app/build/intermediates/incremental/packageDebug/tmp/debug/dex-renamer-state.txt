@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 #Thu Jul 29 20:46:37 KST 2021
 base.0=C\:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+=======
+#Sun Aug 01 01:27:09 KST 2021
+base.0=C\:\\Users\\seven\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+>>>>>>> 866cd29d66e6057bb61e1393fcdd9fa2c1fafee2
 renamed.0=classes.dex
 path.0=classes.dex
