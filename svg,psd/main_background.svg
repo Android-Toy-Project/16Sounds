@@ -9,8 +9,9 @@
       }
     </style>
     <linearGradient id="linear-gradient" x1="720" y1="3200" x2="720" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#fd5392" stop-opacity="0.996"/>
-      <stop offset="1" stop-color="#f86f64"/>
+      <stop offset="0" stop-color="#002b2b" stop-opacity="0.996"/>
+      <stop offset="0.671" stop-color="#010101"/>
+      <stop offset="1" stop-color="#010101"/>
     </linearGradient>
   </defs>
   <path id="사각형_1" data-name="사각형 1" class="cls-1" d="M0,0H1440V3200H0V0Z"/>

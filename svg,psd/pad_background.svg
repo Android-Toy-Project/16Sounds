@@ -5,9 +5,11 @@
         fill: url(#linear-gradient);
       }
     </style>
-    <linearGradient id="linear-gradient" x1="1440" y1="1391.411" x2="0" y2="48.589" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#c231d8"/>
-      <stop offset="1" stop-color="#00daee"/>
+    <linearGradient id="linear-gradient" x1="720" y1="1440" x2="720" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#30c9cd"/>
+      <stop offset="0.014" stop-color="#051817"/>
+      <stop offset="0.982" stop-color="#051817"/>
+      <stop offset="1" stop-color="#30c9cd"/>
     </linearGradient>
   </defs>
   <rect id="pad_background" class="cls-1" width="1440" height="1440" rx="10" ry="10"/>
