@@ -2,17 +2,17 @@
   <defs>
     <style>
       .cls-1 {
-        stroke: #f3abad;
+        stroke: #000;
         stroke-width: 5px;
         fill-rule: evenodd;
         fill: url(#linear-gradient);
       }
     </style>
-    <linearGradient id="linear-gradient" x1="180" y1="2132" x2="180" y2="1832" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#e8dce9" stop-opacity="0.996"/>
-      <stop offset="0.396" stop-color="#e8dce9"/>
-      <stop offset="1" stop-color="#fbcdf1"/>
+    <linearGradient id="linear-gradient" x1="179" y1="2090" x2="179" y2="1790" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bfbfbf" stop-opacity="0.996"/>
+      <stop offset="0.191" stop-color="#bfbfbf"/>
+      <stop offset="1" stop-color="#fff"/>
     </linearGradient>
   </defs>
-  <path id="사각형_3" data-name="사각형 3" class="cls-1" d="M40,1832H320a10,10,0,0,1,10,10v280a10,10,0,0,1-10,10H40a10,10,0,0,1-10-10V1842A10,10,0,0,1,40,1832Z" transform="translate(-27.5 -1829.5)"/>
+  <path id="pad_button" class="cls-1" d="M39,1790H319a10,10,0,0,1,10,10v280a10,10,0,0,1-10,10H39a10,10,0,0,1-10-10V1800A10,10,0,0,1,39,1790Z" transform="translate(-26.5 -1787.5)"/>
 </svg>

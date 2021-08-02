@@ -9,6 +9,7 @@
     tools:context=".MainActivity">
 
     <androidx.gridlayout.widget.GridLayout
+        android:id = "@+id/pad_background"
         android:layout_width="415dp"
         android:layout_height="415dp"
         android:background="@drawable/ic_pad_background"
@@ -134,39 +135,39 @@
     </androidx.gridlayout.widget.GridLayout>
 
     <ImageView
-        android:id="@+id/editSoundButton"
+        android:id="@+id/editsoundButton"
         android:layout_width="140dp"
-        android:layout_height="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginBottom="16dp"
         android:adjustViewBounds="true"
-        android:layout_marginTop="36dp"
-        android:layout_marginEnd="16dp"
-        android:layout_marginRight="16dp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/pad_background"
         app:srcCompat="@drawable/ic_editsound_button" />
 
     <ImageView
         android:id="@+id/recordButton"
-        android:layout_width="60dp"
-        android:layout_height="60dp"
-        android:layout_marginStart="16dp"
-        android:layout_marginLeft="16dp"
-        android:layout_marginTop="36dp"
-        app:layout_constraintStart_toStartOf="parent"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/ic_record_button" />
 
     <ImageView
-        android:id="@+id/profileButton"
-        android:layout_width="60dp"
-        android:layout_height="60dp"
-        android:layout_marginStart="16dp"
-        android:layout_marginLeft="16dp"
+        android:id="@+id/profile_button"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
         android:layout_marginTop="16dp"
         android:onClick="goProfileActivity"
-        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintStart_toStartOf="@id/recordButton"
         app:layout_constraintTop_toBottomOf="@+id/recordButton"
-        app:srcCompat="@drawable/ic_profile_img" />
+        app:srcCompat="@drawable/ic_profile_button" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
