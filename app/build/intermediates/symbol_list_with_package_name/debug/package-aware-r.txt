@@ -1736,6 +1736,7 @@ drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_pad_background
 drawable ic_pad_button
+drawable ic_profile_button
 drawable ic_profile_img
 drawable ic_record_button
 drawable ic_title_img
@@ -1930,8 +1931,8 @@ id dropdown_menu
 id easeIn
 id easeInOut
 id easeOut
-id editSoundButton
 id edit_query
+id editsoundButton
 id elastic
 id end
 id endToStart
@@ -2059,7 +2060,6 @@ id on
 id outline
 id outward
 id packed
-id padBackground
 id padButton0
 id padButton1
 id padButton10
@@ -2076,6 +2076,7 @@ id padButton6
 id padButton7
 id padButton8
 id padButton9
+id pad_background
 id parallax
 id parent
 id parentPanel
@@ -2089,7 +2090,7 @@ id percent
 id pin
 id position
 id postLayout
-id profileButton
+id profile_button
 id progress_circular
 id progress_horizontal
 id radio
