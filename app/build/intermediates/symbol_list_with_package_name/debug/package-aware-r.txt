@@ -28,6 +28,8 @@ anim design_bottom_sheet_slide_out
 anim design_snackbar_in
 anim design_snackbar_out
 anim fragment_fast_out_extra_slow_in
+anim init_activity_fade_in
+anim init_activity_fade_out
 anim init_activity_shinebar1_animation
 anim init_activity_shinebar2_animation
 anim init_activity_startbutton_animation
@@ -2388,6 +2390,8 @@ layout text_view_without_line_height
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
+raw init_bgm
+raw start_sound
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
