@@ -19,6 +19,7 @@ import java.io.File
 import java.util.*
 
 
+
 class InitActivity : AppCompatActivity() {
     @RequiresApi(Build.VERSION_CODES.LOLLIPOP)
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -42,17 +43,17 @@ class InitActivity : AppCompatActivity() {
         val init_bgm: MediaPlayer = MediaPlayer.create(this, R.raw.init_bgm)
         val sound_pool: SoundPool = SoundPool.Builder().build()
         val sound_id:Int = sound_pool.load(this, R.raw.start_sound, 1) ///soundID 생성
-
+        val left_volume:Float = 0.7f; val right_volume:Float = 0.7f
+        val priority:Int = 0; val loop:Int = 0; val rate:Float = 1f
         binding.TitleImage.setOnClickListener {
             init_bgm.start()
         }
         //BGM fade_out & release
         binding.startButton.setOnClickListener{
             fade_out_bgm(init_bgm,1f,0f)
-            play_start_sound(sound_pool, sound_id)
+            play_start_sound(sound_pool, sound_id, left_volume,right_volume,priority,loop, rate)
             goMainActivity()
         }
-
         setContentView(binding.root)
     }
 
@@ -72,8 +73,8 @@ class InitActivity : AppCompatActivity() {
         init_bgm.release()
     }
 
-    fun play_start_sound(sound_pool:SoundPool, sound_id:Int){
-        sound_pool.play(sound_id, 1.0f, 1.0f, 0,0,1.0f)
+    fun play_start_sound(sound_pool:SoundPool, sound_id:Int, left_volume:Float, right_volume:Float, priority:Int, loop: Int, rate: Float){
+        sound_pool.play(sound_id, left_volume,right_volume,priority,loop, rate)
     }
 
     fun goMainActivity(){

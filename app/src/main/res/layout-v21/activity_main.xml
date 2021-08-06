@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ic_main_background"
+    tools:context=".MainActivity">
+
+    <androidx.gridlayout.widget.GridLayout
+        android:id = "@+id/pad_background"
+        android:layout_width="415dp"
+        android:layout_height="415dp"
+        android:background="@drawable/ic_pad_background"
+        android:padding="10dp"
+        app:columnCount="4"
+        app:rowCount="4"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:orientation="horizontal">
+
+        <com.google.android.material.card.MaterialCardView
+            android:backgroundTint="@android:color/transparent"
+            app:cardElevation="0dp"
+            app:rippleColor="#7133FF"
+            android:clickable="true"
+            android:focusable="true">
+            <ImageView
+                android:id="@+id/padButton0"
+                android:background = "@drawable/ic_pad_button"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_margin="10dp"/>
+        </com.google.android.material.card.MaterialCardView>
+        <com.google.android.material.card.MaterialCardView
+            android:backgroundTint="@android:color/transparent"
+            app:cardElevation="0dp"
+            app:rippleColor="#7133FF"
+            android:clickable="true"
+            android:focusable="true">
+            <ImageView
+                android:id="@+id/padButton1"
+                android:background = "@drawable/ic_pad_button"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_margin="10dp"
+                app:srcCompat="@drawable/ic_pad_button" />
+        </com.google.android.material.card.MaterialCardView>
+        <com.google.android.material.card.MaterialCardView
+            android:backgroundTint="@android:color/transparent"
+            app:cardElevation="0dp"
+            app:rippleColor="#7133FF"
+            android:clickable="true"
+            android:focusable="true">
+            <ImageView
+                android:id="@+id/padButton2"
+                android:background = "@drawable/pad_button_ripple_effect"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_margin="10dp"
+                app:srcCompat="@drawable/ic_pad_button" />
+        </com.google.android.material.card.MaterialCardView>
+        <com.google.android.material.card.MaterialCardView
+            android:backgroundTint="@android:color/transparent"
+            app:cardElevation="0dp"
+            app:rippleColor="#7133FF"
+            android:clickable="true"
+            android:focusable="true">
+            <ImageView
+                android:id="@+id/padButton3"
+                android:background = "@drawable/pad_button_ripple_effect"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_margin="10dp"
+                app:srcCompat="@drawable/ic_pad_button" />
+        </com.google.android.material.card.MaterialCardView>
+        <com.google.android.material.card.MaterialCardView
+            android:backgroundTint="@android:color/transparent"
+            app:cardElevation="0dp"
+            app:rippleColor="#FF5733"
+            android:clickable="true"
+            android:focusable="true">
+            <ImageView
+                android:id="@+id/padButton4"
+                android:background = "@drawable/pad_button_ripple_effect"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_margin="10dp"
+                app:srcCompat="@drawable/ic_pad_button" />
+        </com.google.android.material.card.MaterialCardView>
+        <com.google.android.material.card.MaterialCardView
+            android:backgroundTint="@android:color/transparent"
+            app:cardElevation="0dp"
+            app:rippleColor="#FF5733"
+            android:clickable="true"
+            android:focusable="true">
+            <ImageView
+                android:id="@+id/padButton5"
+                android:background = "@drawable/pad_button_ripple_effect"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_margin="10dp"
+                app:srcCompat="@drawable/ic_pad_button" />
+        </com.google.android.material.card.MaterialCardView>
+        <com.google.android.material.card.MaterialCardView
+            android:backgroundTint="@android:color/transparent"
+            app:cardElevation="0dp"
+            app:rippleColor="#FF5733"
+            android:clickable="true"
+            android:focusable="true">
+            <ImageView
+                android:id="@+id/padButton6"
+                android:background = "@drawable/pad_button_ripple_effect"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_margin="10dp"
+                app:srcCompat="@drawable/ic_pad_button" />
+        </com.google.android.material.card.MaterialCardView>
+        <com.google.android.material.card.MaterialCardView
+            android:backgroundTint="@android:color/transparent"
+            app:cardElevation="0dp"
+            app:rippleColor="#FF5733"
+            android:clickable="true"
+            android:focusable="true">
+            <ImageView
+                android:id="@+id/padButton7"
+                android:background = "@drawable/pad_button_ripple_effect"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_margin="10dp"
+                app:srcCompat="@drawable/ic_pad_button" />
+        </com.google.android.material.card.MaterialCardView>
+        <com.google.android.material.card.MaterialCardView
+            android:backgroundTint="@android:color/transparent"
+            app:cardElevation="0dp"
+            app:rippleColor="#33FFBB"
+            android:clickable="true"
+            android:focusable="true">
+            <ImageView
+                android:id="@+id/padButton8"
+                android:background = "@drawable/pad_button_ripple_effect"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_margin="10dp"
+                app:srcCompat="@drawable/ic_pad_button" />
+        </com.google.android.material.card.MaterialCardView>
+        <com.google.android.material.card.MaterialCardView
+            android:backgroundTint="@android:color/transparent"
+            app:cardElevation="0dp"
+            app:rippleColor="#33FFBB"
+            android:clickable="true"
+            android:focusable="true">
+            <ImageView
+                android:id="@+id/padButton9"
+                android:background = "@drawable/pad_button_ripple_effect"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_margin="10dp"
+                app:srcCompat="@drawable/ic_pad_button" />
+        </com.google.android.material.card.MaterialCardView>
+        <com.google.android.material.card.MaterialCardView
+            android:backgroundTint="@android:color/transparent"
+            app:cardElevation="0dp"
+            app:rippleColor="#33FFBB"
+            android:clickable="true"
+            android:focusable="true">
+            <ImageView
+                android:id="@+id/padButton10"
+                android:background = "@drawable/pad_button_ripple_effect"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_margin="10dp"
+                app:srcCompat="@drawable/ic_pad_button" />
+        </com.google.android.material.card.MaterialCardView>
+        <com.google.android.material.card.MaterialCardView
+            android:backgroundTint="@android:color/transparent"
+            app:cardElevation="0dp"
+            app:rippleColor="#33FFBB"
+            android:clickable="true"
+            android:focusable="true">
+            <ImageView
+                android:id="@+id/padButton11"
+                android:background = "@drawable/pad_button_ripple_effect"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_margin="10dp"
+                app:srcCompat="@drawable/ic_pad_button" />
+
+        </com.google.android.material.card.MaterialCardView>
+        <com.google.android.material.card.MaterialCardView
+            android:backgroundTint="@android:color/transparent"
+            app:cardElevation="0dp"
+            app:rippleColor="#FF31A1"
+            android:clickable="true"
+            android:focusable="true">
+            <ImageView
+                android:id="@+id/padButton12"
+                android:background = "@drawable/pad_button_ripple_effect"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_margin="10dp"
+                app:srcCompat="@drawable/ic_pad_button" />
+        </com.google.android.material.card.MaterialCardView>
+        <com.google.android.material.card.MaterialCardView
+            android:backgroundTint="@android:color/transparent"
+            app:cardElevation="0dp"
+            app:rippleColor="#FF31A1"
+            android:clickable="true"
+            android:focusable="true">
+            <ImageView
+                android:id="@+id/padButton13"
+                android:background = "@drawable/pad_button_ripple_effect"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_margin="10dp"
+                app:srcCompat="@drawable/ic_pad_button" />
+        </com.google.android.material.card.MaterialCardView>
+        <com.google.android.material.card.MaterialCardView
+            android:backgroundTint="@android:color/transparent"
+            app:cardElevation="0dp"
+            app:rippleColor="#FF31A1"
+            android:clickable="true"
+            android:focusable="true">
+            <ImageView
+                android:id="@+id/padButton14"
+                android:background = "@drawable/pad_button_ripple_effect"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_margin="10dp"
+                app:srcCompat="@drawable/ic_pad_button" />
+        </com.google.android.material.card.MaterialCardView>
+        <com.google.android.material.card.MaterialCardView
+            android:backgroundTint="@android:color/transparent"
+            app:cardElevation="0dp"
+            app:rippleColor="#FF31A1"
+            android:clickable="true"
+            android:focusable="true">
+            <ImageView
+                android:id="@+id/padButton15"
+                android:background = "@drawable/pad_button_ripple_effect"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_margin="10dp"
+                app:srcCompat="@drawable/ic_pad_button" />
+        </com.google.android.material.card.MaterialCardView>
+    </androidx.gridlayout.widget.GridLayout>
+
+    <ImageView
+        android:id="@+id/editsoundButton"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginBottom="16dp"
+        android:adjustViewBounds="true"
+        app:layout_constraintBottom_toTopOf="@id/pad_background"
+        app:srcCompat="@drawable/ic_editsound_button" />
+
+    <ImageView
+        android:id="@+id/recordButton"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_record_button" />
+
+    <ImageView
+        android:id="@+id/profile_button"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:onClick="goProfileActivity"
+        app:layout_constraintStart_toStartOf="@id/recordButton"
+        app:layout_constraintTop_toBottomOf="@+id/recordButton"
+        app:srcCompat="@drawable/ic_profile_button" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
