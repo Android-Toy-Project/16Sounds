@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 35px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="삼각형_1" data-name="삼각형 1" class="cls-1" d="M182.579,26.123a20,20,0,0,1,35.779,0l164.947,330a20,20,0,0,1-17.89,28.942H35.522a20,20,0,0,1-17.89-28.943Z"/>
+</svg>
