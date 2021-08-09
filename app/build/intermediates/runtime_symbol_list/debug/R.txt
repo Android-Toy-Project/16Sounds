@@ -2098,6 +2098,7 @@ int id progress_horizontal 0x7f08013a
 int id radio 0x7f08013b
 int id ratio 0x7f08013c
 int id recordButton 0x7f08013d
+int id record_button 0x7f0801c5
 int id rectangles 0x7f08013e
 int id reverseSawtooth 0x7f08013f
 int id right 0x7f080140

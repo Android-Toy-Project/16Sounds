@@ -2099,6 +2099,7 @@ id progress_horizontal
 id radio
 id ratio
 id recordButton
+id record_button
 id rectangles
 id reverseSawtooth
 id right

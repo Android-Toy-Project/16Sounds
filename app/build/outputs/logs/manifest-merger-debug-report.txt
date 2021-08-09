@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:2:1-23:12
+ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:2:1-27:12
 MERGED from [androidx.databinding:viewbinding:4.2.2] C:\Users\seven\.gradle\caches\transforms-3\ffa73203ee8f52df263e28da516ff3e2\transformed\viewbinding-4.2.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\seven\.gradle\caches\transforms-3\e40da159253950bc171a5e3355333eef\transformed\core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\seven\.gradle\caches\transforms-3\2588a45925c74aabe670ddbbaa55e5ce\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
@@ -46,25 +46,27 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\seven\.gradle\ca
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\seven\.gradle\caches\transforms-3\28b68ebe234dc67470a1a64598453c67\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\seven\.gradle\caches\transforms-3\ba222b507aea2d6097e2922a4c3b0018\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\seven\.gradle\caches\transforms-3\138f286b38786c44cc17b601dae08d77\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:2:1-27:12
 	package
-		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:3:5-36
+		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:4:5-36
 		INJECTED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:2:1-23:12
+		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:2:1-27:12
 		INJECTED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:2:1-23:12
+		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:2:1-27:12
 		INJECTED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:5:5-21:19
+ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:6:5-22:19
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\seven\.gradle\caches\transforms-3\2588a45925c74aabe670ddbbaa55e5ce\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\seven\.gradle\caches\transforms-3\2588a45925c74aabe670ddbbaa55e5ce\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\seven\.gradle\caches\transforms-3\0ff0b2bb7182d62d3cb60dc54b32bc1f\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
@@ -76,39 +78,55 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\se
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] C:\Users\seven\.gradle\caches\transforms-3\f02cf7b3c64c4de99d84affb54162bfe\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:9:9-41
 	android:roundIcon
-		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:10:9-54
 	android:icon
-		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:8:9-43
 	android:allowBackup
-		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:11:9-46
+		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:12:9-46
 activity#com.example.a16sounds.ProfileActivity
-ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:12:9-62
+ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:13:9-62
 	android:name
-		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:12:19-50
+		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:13:19-50
 activity#com.example.a16sounds.InitActivity
-ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:13:9-19:20
+ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:13:19-47
+		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:14:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:14:13-18:29
+ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:15:17-69
+ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:15:25-66
+		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:17:17-77
+ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:17:27-74
+		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:18:27-74
 activity#com.example.a16sounds.MainActivity
-ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:20:9-50
+ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:21:9-50
 	android:name
-		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:20:19-47
+		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:21:19-47
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:23:5-70
+	android:name
+		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:23:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:24:5-80
+	android:name
+		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.STORAGE
+ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:25:5-66
+	android:name
+		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:25:22-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:26:5-80
+	android:name
+		ADDED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml:26:22-77
 uses-sdk
 INJECTED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\seven\AndroidStudioProjects\16Sounds\app\src\main\AndroidManifest.xml
