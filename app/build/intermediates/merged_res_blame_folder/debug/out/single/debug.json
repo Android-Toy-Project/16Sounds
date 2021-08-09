@@ -16,20 +16,12 @@
         "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\raw_snare2.wav.flat",
-        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\raw\\snare2.wav"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pad_background.xml.flat",
-        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\drawable\\ic_pad_background.xml"
+        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_title_img.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\drawable\\ic_title_img.xml"
     },
     {
         "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_init.xml.flat",
         "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\layout\\activity_init.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_title_img.xml.flat",
-        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\drawable\\ic_title_img.xml"
     },
     {
         "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\anim_init_activity_shinebar2_animation.xml.flat",
@@ -40,20 +32,80 @@
         "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\raw\\hihat2.wav"
     },
     {
-        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\anim_init_activity_fade_in.xml.flat",
         "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\anim\\init_activity_fade_in.xml"
     },
     {
         "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\raw_snare1.wav.flat",
+        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\raw\\snare1.wav"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_profile_button.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\drawable\\ic_profile_button.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\anim_init_activity_title_animation.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\anim\\init_activity_title_animation.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\raw_init_bgm.mp3.flat",
+        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\raw\\init_bgm.mp3"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\anim_init_activity_shinebar1_animation.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\anim\\init_activity_shinebar1_animation.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pad_button_ripple_effect.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\drawable\\pad_button_ripple_effect.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_test_anim1.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\drawable-v24\\test_anim1.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\raw_key_riff2.wav.flat",
+        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\raw\\key_riff2.wav"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\raw_snare2.wav.flat",
+        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\raw\\snare2.wav"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pad_background.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\drawable\\ic_pad_background.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\raw_start_sound.mp3.flat",
@@ -64,8 +116,8 @@
         "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\raw_snare1.wav.flat",
-        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\raw\\snare1.wav"
+        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_init_triangle.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\drawable\\ic_init_triangle.xml"
     },
     {
         "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\raw_kick1.wav.flat",
@@ -80,14 +132,6 @@
         "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
-        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\layout\\activity_profile.xml"
-    },
-    {
         "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\raw_hihat1.wav.flat",
         "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\raw\\hihat1.wav"
     },
@@ -96,36 +140,16 @@
         "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\drawable\\ic_main_background.xml"
     },
     {
-        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_profile_button.xml.flat",
-        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\drawable\\ic_profile_button.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\anim_init_activity_title_animation.xml.flat",
-        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\anim\\init_activity_title_animation.xml"
-    },
-    {
         "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\anim_init_activity_startbutton_animation.xml.flat",
         "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\anim\\init_activity_startbutton_animation.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\raw_init_bgm.mp3.flat",
-        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\raw\\init_bgm.mp3"
     },
     {
         "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable_init_activity_shine_color.xml.flat",
         "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\drawable\\init_activity_shine_color.xml"
     },
     {
-        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\anim_init_activity_shinebar1_animation.xml.flat",
-        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\anim\\init_activity_shinebar1_animation.xml"
-    },
-    {
         "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pad_button_ripple_effect.xml.flat",
-        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\drawable\\pad_button_ripple_effect.xml"
     },
     {
         "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_pad_button_ripple_effect.xml.flat",
@@ -144,20 +168,16 @@
         "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\drawable\\init_activity_shinebar_img.xml"
     },
     {
-        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
-    },
-    {
         "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_activity_main.xml.flat",
         "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\layout-v21\\activity_main.xml"
     },
     {
-        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pad_button.xml.flat",
-        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\drawable\\ic_pad_button.xml"
-    },
-    {
         "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\anim_init_activity_fade_out.xml.flat",
         "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\anim\\init_activity_fade_out.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pad_button.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\drawable\\ic_pad_button.xml"
     },
     {
         "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
@@ -168,19 +188,7 @@
         "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\drawable\\ic_record_button.xml"
     },
     {
-        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\raw_key_riff2.wav.flat",
-        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\raw\\key_riff2.wav"
-    },
-    {
         "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_editsound_button.xml.flat",
         "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\drawable\\ic_editsound_button.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\16Sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\AndroidStudioProjects\\16Sounds\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     }
 ]
